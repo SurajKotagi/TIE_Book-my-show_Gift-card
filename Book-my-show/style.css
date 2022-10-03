@@ -1,0 +1,138 @@
+body{
+    background-color: #D8D8D8;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    min-height:100vh;
+}
+.autocenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.autoalign{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+.upnav{
+    background-color: #251D3A;
+}
+.navb{
+    background-color: #383838;
+    color: white;
+}
+.fimg{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ffimg{
+    border-radius: 5px;
+}
+.cboxbtns{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+.cheading{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif;
+}
+.Cards{
+    background-color: white;
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.card-img-top{
+    padding: 10px 10px 10px 10px;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    /* border-radius: 100; */
+}
+.footer{
+    padding: 150px;
+}
+.footeritem{
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer2{
+    background-color: #383838;
+}
+.footer2-1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.footer2-2{
+    background-color: #7F8487;
+    height: 100px;
+}
+.footer2-3{
+    padding: 100px 100px;
+}
+.tdn{
+    text-decoration: none;
+    color: #7F8487;
+}
+.fomtsmall{
+    font-size: smaller;
+}
+.footer2-4{
+    color: #7F8487;
+}
+
+/* ids */
+#nav1{
+    height: 60px;
+}
+
+#navbarNavAltMarkup{
+    padding-left: 9%;
+    height: 23px;
+}
+
+/* gift page */
+.gimg{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* height: 50%; */
+}
+
+#gifimg{
+    width: 100%;
+    height: 200px;
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    height: 40vw;
+    background-color:aliceblue;
+}
+.inform{
+    background-color: white;
+    padding: 100px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 3px;
+}
+input{
+    width: 300px;
+}
